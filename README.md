@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jaden 👋
 
-<!--
-**jadenrubenfurtado05/jadenrubenfurtado05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who I Am
+I'm a Computer Engineering undergraduate at Don Bosco Institute of Technology (DBIT), passionate about building AI-powered applications and agents, full-stack solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- AI Agents & Automation
+- Full-Stack Web Development
+- Cloud Computing
+- Personal projects that combine AI with practical applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Java, Python, C++, JavaScript, kotlin
+
+**Frameworks & Tools:** React, Node.js, Git, GitHub, SQL
+
+**Interests:** Artificial Intelligence, AI Agents, Full-Stack Development, Cloud Computing, Finance
+
