@@ -1,7 +1,7 @@
 # Heyy, I'm Jaden!!
 
 ##  Who I Am
-I'm a Computer Engineering undergraduate at Don Bosco Institute of Technology (DBIT), passionate about building AI-powered applications and agents, finance and full-stack solutions that solve real-world problems. everything here i've built from scratch no copy/paste templates.
+I'm a Computer Engineering undergraduate at Don Bosco Institute of Technology (DBIT), I build AI-powered applications and agents in tech and passionate about full-stack solutions. everything here i've built to solve real-world problems and constantly wish to upgrade them one step at a time.
 
 ##  Currently Working On
 - AI Agents & Automation
