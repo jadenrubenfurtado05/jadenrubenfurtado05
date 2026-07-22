@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 # Heyy, I'm Jaden!!
 
 ##  Who I Am
-I'm a Computer Engineering undergraduate at Don Bosco Institute of Technology (DBIT), I build AI-powered applications and agents in tech and passionate about full-stack solutions. everything here i've built to solve real-world problems and constantly wish to upgrade them one step at a time.
+I'm a Computer Engineer undergraduate at Don Bosco Institute of Technology (DBIT), I build AI-powered applications and agents in tech and passionate about full-stack solutions. everything here i've built to solve real-world problems and constantly wish to upgrade them one step at a time.
 
 ##  Currently Working On
 - AI Agents & Automation
-- Full-Stack Web Development
+- Full-Stack Development
 - Cloud Computing
+- MVP'S
 - Personal projects that combine AI with practical applications
 
 ##  Tech Stack
